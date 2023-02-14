@@ -15,7 +15,7 @@ Postgres
 SQL
 Git
 
-Proyectos destacados
+# Proyectos destacados
 
 
 ## [PI VIDEO GAMES](https://github.com/ThomRojas/PI-Henry-project-VIDEO-GAMES)
