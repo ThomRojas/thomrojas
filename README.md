@@ -18,7 +18,7 @@ Git
 Proyectos destacados
 
 
-## [PI VIDEO GAMES]([enlace](https://github.com/ThomRojas/PI-Henry-project-VIDEO-GAMES))
+## [PI VIDEO GAMES](https://github.com/ThomRojas/PI-Henry-project-VIDEO-GAMES)
 Este es un proyecto que involucró el consumo de una API de videojuegos para crear una aplicación que permita a los usuarios buscar, ver detalles y crear, editar y eliminar sus propias reseñas de videojuegos.
 
 Proyecto final soyHENRY
