@@ -1,6 +1,6 @@
 ### Sobre mí
 
-¡Hola! Soy Thomas Rojas, un programador Full Stack con experiencia en HTML, CSS, JavaScript, Node.js, Next.js, React, Redux, Express, Sequelize, Postgres y SQL. Me apasiona la tecnología y me encanta resolver problemas y aprender nuevas habilidades.
+¡Hola! Soy **Thomas Rojas**, un programador Full Stack con experiencia en HTML, CSS, JavaScript, Node.js, Next.js, React, Redux, Express, Sequelize, Postgres y SQL. Me apasiona la tecnología y me encanta resolver problemas y aprender nuevas habilidades.
 
 Habilidades técnicas
 HTML/CSS
@@ -17,7 +17,8 @@ Git
 
 Proyectos destacados
 
-PI VIDEO GAMES
+
+## [PI VIDEO GAMES]([enlace](https://github.com/ThomRojas/PI-Henry-project-VIDEO-GAMES))
 Este es un proyecto que involucró el consumo de una API de videojuegos para crear una aplicación que permita a los usuarios buscar, ver detalles y crear, editar y eliminar sus propias reseñas de videojuegos.
 
 Proyecto final soyHENRY
