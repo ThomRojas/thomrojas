@@ -21,9 +21,10 @@ Proyectos destacados
 ## [PI VIDEO GAMES](https://github.com/ThomRojas/PI-Henry-project-VIDEO-GAMES)
 Este es un proyecto que involucró el consumo de una API de videojuegos para crear una aplicación que permita a los usuarios buscar, ver detalles y crear, editar y eliminar sus propias reseñas de videojuegos.
 
-Proyecto final soyHENRY
+
+## [Proyecto final soyHENRY](https://github.com/Gasnis/Grupo13-PF)
 soyHENRY es una aplicación web innovadora diseñada para conectar a las personas que buscan vivir experiencias nocturnas inolvidables con sus amigos. Con nuestra plataforma, los usuarios pueden explorar y reservar lugares nocturnos únicos, planificar eventos con sus amigos y hacer que la noche sea más emocionante y memorable.
 
-Cómo contactarme
-LinkedIn: https://www.linkedin.com/in/thomrojas/
-Correo electrónico: thomas.rojas.arce@gmail.com
+## Cómo contactarme
+# [Mi perfil de LinkedIn]( https://www.linkedin.com/in/thomrojas/)
+# Correo electrónico: thomas.rojas.arce@gmail.com
