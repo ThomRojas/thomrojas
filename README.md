@@ -1,16 +1,23 @@
-### Hi there 👋
+Hola, soy [Thomas Rojas]
+Sobre mí
+Soy un programador Full Stack con experiencia en HTML, CSS, JavaScript, Node.js, Next.js, React, Redux, Express, Sequelize, Postgres y SQL. Me apasiona la tecnología y me encanta resolver problemas y aprender nuevas habilidades.
 
-<!--
-**ThomRojas/thomrojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Habilidades técnicas
+HTML/CSS
+JavaScript (ES6+)
+Node.js
+Next.js
+React
+Redux
+Express
+Sequelize
+Postgres
+SQL
+Git
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Proyectos destacados
+[PI VIDEO GAMES](https://github.com/ThomRojas/PI-Henry-project-VIDEO-GAMES) - Este es un proyecto que involucró el consumo de una API de videojuegos para crear una aplicación que permita a los usuarios buscar, ver detalles y crear, editar y eliminar sus propias reseñas de videojuegos.
+[Proyecto final soyHENRY](https://github.com/Gasnis/Grupo13-PF) - aplicación web innovadora diseñada para conectar a las personas que buscan vivir experiencias nocturnas inolvidables con sus amigos. Con nuestra plataforma, los usuarios pueden explorar y reservar lugares nocturnos únicos, planificar eventos con sus amigos y hacer que la noche sea más emocionante y memorable.
+Cómo contactarme
+LinkedIn: https://www.linkedin.com/in/thomrojas/
+Correo electrónico: thomas.rojas.arce@gmail.com
