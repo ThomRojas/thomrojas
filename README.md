@@ -1,4 +1,4 @@
-###Sobre mí
+### Sobre mí
 
 ¡Hola! Soy Thomas Rojas, un programador Full Stack con experiencia en HTML, CSS, JavaScript, Node.js, Next.js, React, Redux, Express, Sequelize, Postgres y SQL. Me apasiona la tecnología y me encanta resolver problemas y aprender nuevas habilidades.
 
